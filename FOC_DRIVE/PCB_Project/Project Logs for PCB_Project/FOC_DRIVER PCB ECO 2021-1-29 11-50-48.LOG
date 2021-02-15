@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=E1 Old Footprint=CM D(6.3*5.4) New Footprint=CD C(6032)
+Change Component Comment : Designator=E1 Old Comment=68uF/25V New Comment=68uF/16V
+Change component parameters: Designator = "E1" ("E1"); Footprint = "CM D(6.3*5.4)"; UniqueID = "\DFFWUOUX" ("\DFFWUOUX")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"

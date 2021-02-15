@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=ADC_2IN Pin=JP6-1
+Removed Pin From Net: NetName=AGND Pin=JP6-2
+Removed Pin From Net: NetName=ADC_1IN Pin=JP8-1
+Removed Pin From Net: NetName=AGND Pin=JP8-2
+Added Component: Designator=JP4(MX 1.25-WS-4P)
+Add component (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ADC_1IN Pin=JP4-1
+Added Pin To Net: NetName=AGND Pin=JP4-2
+Added Pin To Net: NetName=ADC_2IN Pin=JP4-3
+Added Pin To Net: NetName=AGND Pin=JP4-4

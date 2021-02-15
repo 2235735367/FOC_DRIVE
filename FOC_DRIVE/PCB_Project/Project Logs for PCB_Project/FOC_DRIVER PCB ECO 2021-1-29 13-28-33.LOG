@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VCC3v3 Pin=JP7-1
+Removed Pin From Net: NetName=ENC_A Pin=JP7-2
+Removed Pin From Net: NetName=ENC_B Pin=JP7-3
+Removed Pin From Net: NetName=ENC_Z Pin=JP7-4
+Removed Pin From Net: NetName=DGND Pin=JP7-5
+Added Component: Designator=JP6(XH2.54-WI-5P)
+Add component (AddParameter): Name = "BOM名称"; Value = "5P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC3v3 Pin=JP6-1
+Added Pin To Net: NetName=ENC_A Pin=JP6-2
+Added Pin To Net: NetName=ENC_B Pin=JP6-3
+Added Pin To Net: NetName=ENC_Z Pin=JP6-4
+Added Pin To Net: NetName=DGND Pin=JP6-5

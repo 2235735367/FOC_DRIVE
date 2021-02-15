@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=S2 Old Footprint=KEY2 New Footprint=SW-SMD_TS-1066B-B3D2
+Change Component Footprint: Designator=S3 Old Footprint=KEY2 New Footprint=SW-SMD_TS-1066B-B3D2
+Change Component Footprint: Designator=S4 Old Footprint=KEY2 New Footprint=SW-SMD_TS-1066B-B3D2
+Change Component Footprint: Designator=S5 Old Footprint=KEY2 New Footprint=SW-SMD_TS-1066B-B3D2
+Change Component Footprint: Designator=SP1 Old Footprint=M3x4+6_N New Footprint=M3x4_L
+Change Component Footprint: Designator=SP2 Old Footprint=M3x4+6_N New Footprint=M3x4_L
+Change Component Footprint: Designator=SP3 Old Footprint=M3x4+6_N New Footprint=M3x4_L
+Change Component Footprint: Designator=SP4 Old Footprint=M3x4+6_N New Footprint=M3x4_L
+Change Component Footprint: Designator=Q2 Old Footprint=SO8FL_FILL New Footprint=SO8FL
+Change Component Footprint: Designator=Q4 Old Footprint=SO8FL_FILL New Footprint=SO8FL
+Change Component Footprint: Designator=Q6 Old Footprint=SO8FL_FILL New Footprint=SO8FL
+Change Component Designator: OldDesignator=U11 NewDesignator=U*

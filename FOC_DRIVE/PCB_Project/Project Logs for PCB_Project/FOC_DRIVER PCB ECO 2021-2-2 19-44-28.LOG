@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=DGND Pin=C19-1
+Removed Pin From Net: NetName=nRST Pin=C19-2
+Removed Member From Class: ClassName=FOC_DRIVER Member=C19

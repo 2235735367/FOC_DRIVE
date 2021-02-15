@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=DGND Pin=JP2-0
+Removed Pin From Net: NetName=SL_A Pin=JP2-0
+Removed Pin From Net: NetName=DGND Pin=JP4-0
+Removed Pin From Net: NetName=DGND Pin=JP4-0
+Change Component Designator: OldDesignator=s NewDesignator=U1
+Added Component: Designator=JP1(MX 1.25-WS-4P)
+Add component (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DAC1 Pin=JP1-1
+Added Pin To Net: NetName=AGND Pin=JP1-2
+Added Pin To Net: NetName=DAC2 Pin=JP1-3
+Added Pin To Net: NetName=AGND Pin=JP1-4
+Added Member To Class: ClassName=FOC_DRIVER Member=Component JP1 HDR-1X4

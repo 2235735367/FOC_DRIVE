@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=DAC2 Pin=JP4-1
+Removed Pin From Net: NetName=AGND Pin=JP4-2
+Change Component Footprint: Designator=JP1 Old Footprint=MX 1.25-WS-2P New Footprint=MX 1.25-WS-4P
+Change Component Comment : Designator=JP1 Old Comment=HDR-1X2 New Comment=HDR-1X4
+Change component parameters: Designator = "JP1" ("JP1"); Footprint = "MX 1.25-WS-2P"; UniqueID = "\PCFXGKZQ" ("\PCFXGKZQ")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DAC2 Pin=JP1-3
+Added Pin To Net: NetName=AGND Pin=JP1-4

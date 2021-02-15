@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SH_A Pin=JP9-1
+Removed Pin From Net: NetName=SH_C Pin=JP9-3
+Added Pin To Net: NetName=SH_C Pin=JP9-1
+Added Pin To Net: NetName=SH_A Pin=JP9-3

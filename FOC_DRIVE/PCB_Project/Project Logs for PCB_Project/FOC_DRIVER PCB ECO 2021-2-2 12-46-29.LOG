@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=SL_A Pin=JP3-0
+Added Component: Designator=R56(R 2512_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SL_A Pin=R56-1
+Added Pin To Net: NetName=SL_C Pin=R56-2
+Added Member To Class: ClassName=FOC_DRIVER Member=Component C66 100uF
+Added Member To Class: ClassName=FOC_DRIVER Member=Component R44 2.2R
+Added Member To Class: ClassName=FOC_DRIVER Member=Component R52 2.2R
+Added Member To Class: ClassName=FOC_DRIVER Member=Component R56 0.5R
+Added Member To Class: ClassName=FOC_DRIVER Member=Component U5

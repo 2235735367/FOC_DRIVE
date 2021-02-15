@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=C51 Old Footprint=C 0603_L New Footprint=C 0402_L
+Added Room: Name=FOC_DRIVER
