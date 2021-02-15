@@ -1,0 +1,60 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/22357/Desktop/encoder_test/simulation/modelsim
+T_opt
+!s110 1612697261
+ViE@j3@RI2f`;Pg?I7KNQN1
+04 20 4 work encoder_test_vlg_tst fast 0
+=1-5405db93b763-601fcead-14d-4d68
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneiii_ver -L rtl_work -L work +acc
+n@_opt
+OL;O;10.4;61
+vencoder_test
+Z1 !s110 1612697260
+!i10b 1
+!s100 j:T]C7TzFjA3=1MeVT6n]1
+IM8GSN^5_:D]ETgdUGmn5B0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1611370225
+8C:/Users/22357/Desktop/encoder_test/encoder_test.v
+FC:/Users/22357/Desktop/encoder_test/encoder_test.v
+L0 1
+Z3 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1612697260.907000
+!s107 C:/Users/22357/Desktop/encoder_test/encoder_test.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/22357/Desktop/encoder_test|C:/Users/22357/Desktop/encoder_test/encoder_test.v|
+!i113 0
+Z4 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+!s92 -vlog01compat -work work +incdir+C:/Users/22357/Desktop/encoder_test -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vencoder_test_vlg_tst
+R1
+!i10b 1
+!s100 `F^@4lamXE^ZPCo>2;O3h2
+IJPHjMN8NN?nfcAkG8U0Bc0
+R2
+R0
+w1611323978
+8C:/Users/22357/Desktop/encoder_test/simulation/modelsim/encoder_test.vt
+FC:/Users/22357/Desktop/encoder_test/simulation/modelsim/encoder_test.vt
+L0 28
+R3
+r1
+!s85 0
+31
+!s108 1612697260.975000
+!s107 C:/Users/22357/Desktop/encoder_test/simulation/modelsim/encoder_test.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/22357/Desktop/encoder_test/simulation/modelsim|C:/Users/22357/Desktop/encoder_test/simulation/modelsim/encoder_test.vt|
+!i113 0
+R4
+!s92 -vlog01compat -work work +incdir+C:/Users/22357/Desktop/encoder_test/simulation/modelsim -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact

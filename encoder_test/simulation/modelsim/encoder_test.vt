@@ -1,0 +1,74 @@
+// Copyright (C) 1991-2013 Altera Corporation
+// Your use of Altera Corporation's design tools, logic functions 
+// and other software and tools, and its AMPP partner logic 
+// functions, and any output files from any of the foregoing 
+// (including device programming or simulation files), and any 
+// associated documentation or information are expressly subject 
+// to the terms and conditions of the Altera Program License 
+// Subscription Agreement, Altera MegaCore Function License 
+// Agreement, or other applicable license agreement, including, 
+// without limitation, that your use is for the sole purpose of 
+// programming logic devices manufactured by Altera and sold by 
+// Altera or its authorized distributors.  Please refer to the 
+// applicable agreement for further details.
+
+// *****************************************************************************
+// This file contains a Verilog test bench template that is freely editable to  
+// suit user's needs .Comments are provided in each section to help the user    
+// fill out necessary details.                                                  
+// *****************************************************************************
+// Generated on "01/22/2021 13:36:07"
+                                                                                
+// Verilog Test Bench template for design : encoder_test
+// 
+// Simulation tool : ModelSim (Verilog)
+// 
+
+`timescale 1 ns/ 1 ns
+module encoder_test_vlg_tst();
+// constants                                           
+// general purpose registers
+reg eachvec;
+// test vector input registers
+reg Enco_A;
+reg Enco_B;
+reg Enco_Z;
+reg clk;
+reg rst_n;
+// wires                                               
+
+// assign statements (if any)                          
+encoder_test i1 (
+// port map - connection between master ports and signals/registers   
+	.Enco_A(Enco_A),
+	.Enco_B(Enco_B),
+	.Enco_Z(Enco_Z),
+	.clk(clk),
+	.rst_n(rst_n)
+);
+initial                                                
+begin                                                  
+    clk     =   1'b0;
+    rst_n   =   1'b0;
+    Enco_A  =   1'b0;
+    Enco_B  =   1'b0;
+    Enco_Z  =   1'b0;
+    
+    #150   rst_n = 1'b1;
+    
+    #100000 $stop;
+end                                                    
+always  #10 clk = ~clk;
+
+always  begin
+    #200   Enco_A = ~Enco_A;
+    #200   Enco_B = ~Enco_B;
+    #200   Enco_A = ~Enco_A;
+    #200   Enco_B = ~Enco_B;  
+end
+
+
+                                                 
+                                                                   
+endmodule
+

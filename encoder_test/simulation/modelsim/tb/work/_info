@@ -1,0 +1,48 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/SoftWare1/modeltech64_10.4/examples
+vencoder_test
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 ZJSbYXmoC7VZ`iB:Y8H;T0
+IZC?kC0o:@PQM9LW;nC2G:0
+Z1 dC:/Users/22357/Desktop/encoder_test/simulation/modelsim/tb
+w1611311923
+8C:/Users/22357/Desktop/encoder_test/encoder_test.v
+FC:/Users/22357/Desktop/encoder_test/encoder_test.v
+L0 1
+Z2 OL;L;10.4;61
+!s108 1611315747.850000
+!s107 C:/Users/22357/Desktop/encoder_test/encoder_test.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/22357/Desktop/encoder_test/encoder_test.v|
+!i113 0
+Z3 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vencoder_test_vlg_tst
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 U85<oHmI<mW6Q[9]HF`H>0
+IA6F==PNJZk<Y@Bc8gRLF31
+R1
+w1611305254
+8C:/Users/22357/Desktop/encoder_test/simulation/modelsim/tb/encoder_test.vt
+FC:/Users/22357/Desktop/encoder_test/simulation/modelsim/tb/encoder_test.vt
+L0 28
+R2
+!s108 1611315757.194000
+!s107 C:/Users/22357/Desktop/encoder_test/simulation/modelsim/tb/encoder_test.vt|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/22357/Desktop/encoder_test/simulation/modelsim/tb/encoder_test.vt|
+!i113 0
+R3

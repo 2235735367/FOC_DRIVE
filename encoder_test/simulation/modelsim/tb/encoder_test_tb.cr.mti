@@ -1,0 +1,15 @@
+C:/Users/22357/Desktop/encoder_test/encoder_test.v {1 {vlog -work work -vopt -stats=none C:/Users/22357/Desktop/encoder_test/encoder_test.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module encoder_test
+
+Top level modules:
+	encoder_test
+
+} {} {}} C:/Users/22357/Desktop/encoder_test/simulation/modelsim/tb/encoder_test.vt {1 {vlog -work work -vopt -stats=none C:/Users/22357/Desktop/encoder_test/simulation/modelsim/tb/encoder_test.vt
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module encoder_test_vlg_tst
+
+Top level modules:
+	encoder_test_vlg_tst
+
+} {} {}}
