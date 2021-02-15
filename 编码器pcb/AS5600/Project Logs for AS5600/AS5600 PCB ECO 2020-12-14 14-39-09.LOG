@@ -1,0 +1,9 @@
+Added Component: Designator=SW1(CSW1.27 SMD-2P)
+Add component (AddParameter): Name = "BOM名称"; Value = "2路编码开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DIR Pin=SW1-1
+Added Pin To Net: NetName=PGO Pin=SW1-2
+Added Pin To Net: NetName=DGND Pin=SW1-3
+Added Pin To Net: NetName=DGND Pin=SW1-4
+Added Member To Class: ClassName=Sheet1 Member=Component SW1 CSW-2P
